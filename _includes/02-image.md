@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pitágoras&Darwin](https://photos.app.goo.gl/YBXvh3n6CG1zTLVs7)
