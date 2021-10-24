@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Pita pita pi..*
+_Pequeño piel de Judas_
+
+**Darwin Darwino!**
+__Darwin de mami__
+
+_Mis **bebitos** Dolorenses_
